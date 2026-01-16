@@ -1,4 +1,6 @@
-## Hi there 👋
+## I am a Computer Science student at the University of the Western Cape and a proud Mastercard Foundation Scholar. My journey is defined by a dual passion: advancing Artificial Intelligence and empowering underserved communities through education and leadership.
+##The Tech: Currently, I am developing a personal AI system designed to automate local file management, exploring the intersection of ML and user productivity.
+The Impact: Beyond the code, I believe in "paying it forward." Whether it is tutoring matriculants through the Bono Foundation, leading the Vhavenda Society, or introducing primary school learners to coding with TechForward, my goal is to bridge the digital and educational divide in South Africa.
 
 <!--
 **balanganani28/balanganani28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
